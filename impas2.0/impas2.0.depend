@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1547047663 source:b:\work\impas2.0\main.cpp
+	<iostream>
+	<stdio.h>
+	<winbgim.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+
